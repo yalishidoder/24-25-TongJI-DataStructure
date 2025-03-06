@@ -1,2 +1,3 @@
-# 24-25-TongJI-DataStructureCurriculumDesign
-同济大学2024-2025秋季期数据结构课程设计作业
+# 24-25-TongJI-DataStructure
+## 同济大学2024-2025秋季期数据结构课程设计作业<br/>
+包括课程设计的作业以及数据结构的课程论文<br/>
